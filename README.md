@@ -18,4 +18,4 @@ Next, navigate to the file `Main.java`, located at `src/ui/Main.java`, and run i
 ### Example of pages
 Here is the home page of the application :
 
-![./readme_images/home_page.png]
+!(./readme_images/home_page.png)
