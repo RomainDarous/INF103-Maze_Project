@@ -15,12 +15,11 @@ To run the project, download the two folders `data` and `src` and place them in 
 
 Next, navigate to the file `Main.java`, located at `src/ui/Main.java`, and run it.
 
-### Example of pages
-Here is the home page of the application :
+### Home Page
 ![Home Page](./readme_images/home_page.png)
 
-Then, you can create or load a maze and build your own maze. Here is an exmaple of maze :
+### Edit page of the mazes
 ![Make Page](./readme_images/make_maze.png)
 
-Finally, you can solve the maze and get the shortest path :
+### Solved maze
 ![Solved Maze](./readme_images/solved_maze.png)
